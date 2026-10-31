@@ -20,7 +20,7 @@ An interactive Excel dashboard analyzing customer behavior and churn vectors to 
 * **Advanced Data Aggregation:** **Pivot Tables** used to calculate specialized SaaS metrics like Churn Percentage and Revenue-at-Risk.
 * **Data Visualization & Design:** Built custom nested stacked bar charts, horizontal bar distributions and multi-series column charts.
 * **Interactive Slicers:** Deployed dynamic, cross-connected filters for **Country, Subscription Tier, and Account Status** to enable real-time dashboard drilling.
-* **UI/UX Architecture:** Designed a high-contrast executive interface utilizing clear color-coding (Green for Active, Orange/Red for Churned) to enhance scannability.
+* **UI/UX Architecture:** Designed a high-contrast executive interface utilizing clear color-coding (Silver/Grey for Active, Crimson Red for Churned) to enhance scannability.
 
 ## 📁 Repository Structure
 * `Netflix_Subscriber_Intelligence_Dashboard.xlsx` (Includes both the interactive **Dashboard** and the **Raw Data** sheets).
